@@ -1,4 +1,4 @@
- Un gusto soy Aaròn Garcìa 👋
+ Un gusto soy Aarón García 👋
  
 - 🔭 Actualmente estoy estudiando en el instituto tècnico Ricaldone.
 - 🌱 Actualmente estoy aprendiendo a usar github.
